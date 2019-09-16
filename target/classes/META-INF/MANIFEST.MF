@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Notification Service ofr three models
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ankushvashishth
+Implementation-Vendor-Id: com.notification
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/Notification
+ s/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
